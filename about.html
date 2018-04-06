@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "Hey, this is BY."
+title: "Aurora"
+description: "For hearing the sound of light."
 header-img: "img/header.jpg"
 ---
 
@@ -12,10 +12,10 @@ header-img: "img/header.jpg"
 </select> -->
 
 <!-- Chinese Version -->
-<div class="zh post-container">
+<!--<div class="zh post-container">-->
 
     <!--copied from markdown -->
-    <blockquote><p>冰冻三尺 非一日之寒<br>
+    <!--<blockquote><p>冰冻三尺 非一日之寒<br>
     积土成山 非斯须之作</p></blockquote>
 
     <p>Hey，我是<strong>柏荧(BY)</strong>，一只iOS程序猿，现在厦门工作。</p>
@@ -34,9 +34,9 @@ header-img: "img/header.jpg"
         <li><a href="http://huangxuan.me/">Hux</a></li> 
         <li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
     </ul>
-</div>
+</div>  
 
-<!-- English Version -->
+<English Version -->
 <!-- <div class="en post-container">
     <blockquote><p>Yet another iOS Developer. <br>
     Yet another Life-long Student.</p></blockquote>
@@ -58,7 +58,7 @@ header-img: "img/header.jpg"
 </div> -->
 
 <!-- Handle Language Change -->
-<script type="text/javascript">
+<!--<script type="text/javascript">
     // get nodes
     var $zh = document.querySelector(".zh");
     var $en = document.querySelector(".en");
@@ -98,10 +98,10 @@ header-img: "img/header.jpg"
 </script>
 
 
-<!-- Gitalk 评论 start  -->
-{% if site.gitalk.enable %}
-<!-- Gitalk link  -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<! Gitalk 评论 start  -->
+<!--{% if site.gitalk.enable %}
+<!- Gitalk link  -->
+<!--<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
 
 <div id="gitalk-container"></div>
@@ -118,19 +118,19 @@ header-img: "img/header.jpg"
     gitalk.render('gitalk-container');
 </script>
 {% endif %}
-<!-- Gitalk end -->
+ Gitalk end -->
 
  <!-- disqus 评论框 start  -->
-{% if site.disqus.enable %}
+<!--{% if site.disqus.enable %}
 
 <div class="comment">
     <div id="disqus_thread" class="disqus-thread">
     </div>
 </div>
-<!-- disqus 评论框 end -->
+disqus 评论框 end -->
 
 <!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
+<!--<script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = "{{site.disqus.username}}";
     var disqus_identifier = "{{site.disqus.username}}/{{page.url}}";
@@ -142,6 +142,6 @@ header-img: "img/header.jpg"
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
 </script>
-<!-- disqus 公共JS代码 end -->
-{% endif %}
+ disqus 公共JS代码 end -->
+<!--{% endif %} -->
 
