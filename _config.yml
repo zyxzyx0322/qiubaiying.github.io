@@ -1,3 +1,4 @@
+
 # Site settings
 title: Alaska
 SEOTitle: Alaska Blog
@@ -74,7 +75,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-#ba_track_id: 
+ba_track_id: 9eaf865e8936ab3176e46a2d59bda7db
 
 # Google Analytics
 #ga_track_id: ''            # Format: UA-xxxxxx-xx
