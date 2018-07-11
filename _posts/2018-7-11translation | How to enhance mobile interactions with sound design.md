@@ -3,7 +3,7 @@ layout:     post
 title:      译文 | 如何通过声音设计增强移动交互
 date:       2018-07-11
 author:     Alaska
-header-img: img/2018-05-27-header.jpg
+header-img: !(https://upload-images.jianshu.io/upload_images/11526379-efbb388cd25d5b61.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 catalog: true
 tags:
     - design
