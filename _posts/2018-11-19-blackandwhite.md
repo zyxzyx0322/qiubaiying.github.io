@@ -32,6 +32,8 @@ Personally, black-and-white photos convey more intense emotions. So I took some 
 
 ![R0011086.JPG](https://upload-images.jianshu.io/upload_images/11526379-c554bbbde8892e23.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+![R0011120.JPG](https://upload-images.jianshu.io/upload_images/11526379-5a23c789cb99259e.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ###  **Hongkong**
 ![WechatIMG1.jpeg](https://upload-images.jianshu.io/upload_images/11526379-a9b5117a1183bb9f.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
