@@ -9,11 +9,9 @@ tags:
     - photography
     - daily life
 ---
-**Black and White**
-
 Personally, black-and-white photos convey more intense emotions. So I took some black-and-white photos in three places, trying to capture the drama of the moment.
 
-###  **Fujian**
+##  **Fujian**
 ![1](https://upload-images.jianshu.io/upload_images/11526379-e9bca4b71990e56f.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![2](https://upload-images.jianshu.io/upload_images/11526379-9d4847e7e4752dd9.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -24,7 +22,7 @@ Personally, black-and-white photos convey more intense emotions. So I took some 
 
 ![5](https://upload-images.jianshu.io/upload_images/11526379-dcb18c419df442da.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-###  **Melbourne**
+##  **Melbourne**
 ![1](https://upload-images.jianshu.io/upload_images/11526379-bae9a68d32557778.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![2](https://upload-images.jianshu.io/upload_images/11526379-f43cfa2b43af0b6a.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -36,7 +34,7 @@ Personally, black-and-white photos convey more intense emotions. So I took some 
 ![5](https://upload-images.jianshu.io/upload_images/11526379-516baa7c06321f32.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-###  **Hongkong**
+##  **Hongkong**
 ![1](https://upload-images.jianshu.io/upload_images/11526379-adcc30ada1c5948b.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![2](https://upload-images.jianshu.io/upload_images/11526379-aa6729a76f87aa6d.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
