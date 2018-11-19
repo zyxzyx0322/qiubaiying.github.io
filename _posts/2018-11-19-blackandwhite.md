@@ -12,7 +12,7 @@ tags:
 Personally, black-and-white photos convey more intense emotions. So I took some black-and-white photos in three places, trying to capture the drama of the moment.
 
 ##  **Fujian**
-![1](https://upload-images.jianshu.io/upload_images/11526379-e9bca4b71990e56f.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![R0010007.JPG](https://upload-images.jianshu.io/upload_images/11526379-002ffe8d29f69c3d.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![2](https://upload-images.jianshu.io/upload_images/11526379-9d4847e7e4752dd9.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
