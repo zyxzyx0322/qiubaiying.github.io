@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      译文 | 如何通过声音设计增强移动交互
+title:      Photography | Black and White
 date:       2018-11-19
 author:     Yaxin Zheng (Alaska)
 header-img: img/2018-07-11header.jpg
