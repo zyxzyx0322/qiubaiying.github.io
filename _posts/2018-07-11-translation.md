@@ -12,7 +12,7 @@ tags:
 
 作者：Will Littlejohn ，Facebook声音设计主管 
 
-译者：Alaska
+译者：Yaxin Zheng (Alaska)
 
 原文链接https://medium.com/facebook-design/how-to-enhance-mobile-interactions-with-sound-design-3c3b30e98177
 
