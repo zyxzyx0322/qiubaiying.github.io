@@ -94,7 +94,8 @@ tags:
 
 当我以这种方式测试声音时，我会单独聆听每个声音，进而优化。 可以使用参数均衡器来完成此操作。在设计和测试时，请记住，移动设备的扬声器在再现较低频率时效果不佳，并且会加强某些高频。
 
-![参数均衡器.png](https://upload-images.jianshu.io/upload_images/11526379-ec3fa977fe980341.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img alt="参数均衡器.png" src="https://upload-images.jianshu.io/upload_images/11526379-ec3fa977fe980341.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" referrerpolicy="no-referrer" />
+
 *典型的带有应用曲线的基于软件的参数均衡器。 X轴表示以赫兹为单位的频率，Y轴表示以分贝为单位的振幅。 请注意，已删除所有较低频率，并且已减少某些窄频带。*
 
 
